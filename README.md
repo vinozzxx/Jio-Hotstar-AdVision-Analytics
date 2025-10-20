@@ -530,9 +530,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Developer:** VINOTHKUMAR S
 
 - **Email:** vinothkumar@example.com
-- **LinkedIn:** [linkedin.com/in/vinothkumar-s](https://linkedin.com/in/vinothkumar-s)
+- **LinkedIn:** [linkedin.com/in/vinothkumar-s](https://www.linkedin.com/in/vinothkumar-aa2a53269/)
 - **GitHub:** [github.com/vinozzxx](https://github.com/vinozzxx)
-- **Portfolio:** [vinothkumar.dev](https://vinothkumar.dev)
+- **Portfolio:** [vinothkumar.dev](https://bold.pro/my/vinothkumar-250910162038)
 
 ---
 
