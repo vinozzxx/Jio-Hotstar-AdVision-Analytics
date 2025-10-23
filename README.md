@@ -130,66 +130,14 @@ jio-hotstar-advision-analytics/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-├── .gitignore
-├── docker-compose.yml
-├── Dockerfile
 │
 ├── data/
 │   ├── sample_videos/
 │   ├── brand_logos/
 │   └── annotations/
 │
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_model_training.ipynb
-│   ├── 03_detection_pipeline.ipynb
-│   └── 04_analytics_dashboard.ipynb
-│
-├── src/
-│   ├── detection/
-│   │   ├── brand_detector.py
-│   │   ├── placement_classifier.py
-│   │   ├── event_detector.py
-│   │   └── ocr_handler.py
-│   │
-│   ├── processing/
-│   │   ├── video_processor.py
-│   │   ├── frame_extractor.py
-│   │   ├── chunk_generator.py
-│   │   └── timestamp_aggregator.py
-│   │
-│   ├── database/
-│   │   ├── models.py
-│   │   ├── crud.py
-│   │   └── connection.py
-│   │
-│   ├── rag/
-│   │   ├── embeddings.py
-│   │   ├── retrieval.py
-│   │   ├── qa_agent.py
-│   │   └── vector_store.py
-│   │
-│   ├── reporting/
-│   │   ├── report_generator.py
-│   │   ├── templates/
-│   │   └── agentic_reports.py
-│   │
-│   ├── api/
-│   │   ├── main.py
-│   │   ├── routes/
-│   │   ├── schemas/
-│   │   └── dependencies.py
-│   │
-│   └── utils/
-│       ├── s3_handler.py
-│       ├── config.py
-│       └── logger.py
-│
 ├── models/
 │   ├── yolov8_brand_detector.pt
-│   ├── placement_classifier.h5
-│   └── event_classifier.pkl
 │
 ├── streamlit_app/
 │   ├── app.py
@@ -206,9 +154,6 @@ jio-hotstar-advision-analytics/
 │   └── test_api.py
 │
 └── deployment/
-    ├── kubernetes/
-    ├── terraform/
-    └── scripts/
 ```
 
 ---
