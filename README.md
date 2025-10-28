@@ -126,34 +126,43 @@ Use historical analytics to optimize sponsorship contracts and ad placement stra
 ## 📁 Project Structure
 
 ```bash
-jio-hotstar-advision-analytics/
+brand-detection-project/
 │
-├── README.md
-├── requirements.txt
+├── .env                        # Environment variables
+├── best_model.pt               # Trained YOLO model
+├── best.pt                     # Model checkpoint
+├── brand_detection.db          # SQLite database
+├── dashboard.py                # Dashboard visualization script
+├── preprocessing.ipynb         # Data preprocessing notebook
+├── Problem Statement.docx      # Project problem statement
+├── requirements.txt            # Required dependencies
+├── ui_app.py                   # Streamlit or UI app script
+├── youtube_app.py              # Script for YouTube video processing
 │
-├── data/
-│   ├── sample_videos/
-│   ├── brand_logos/
-│   └── annotations/
+├── data.yaml                   # YOLO dataset configuration
+├── README.dataset.txt          # Dataset description
+├── README.roboflow.txt         # Roboflow export info
 │
-├── models/
-│   ├── yolov8_brand_detector.pt
+├── image/
+│   ├── output_with_placement/
+│   └── output.jpg              # Sample output image
 │
-├── streamlit_app/
-│   ├── app.py
-│   ├── pages/
-│   │   ├── 1_Upload_Video.py
-│   │   ├── 2_Analytics_Dashboard.py
-│   │   ├── 3_RAG_Query.py
-│   │   └── 4_Reports.py
-│   └── assets/
+├── runs/
+│   └── detect/
+│       ├── train/
+│       ├── train2/
+│       └── train5/             # YOLO training runs
 │
-├── tests/
-│   ├── test_detection.py
-│   ├── test_processing.py
-│   └── test_api.py
+├── test/                       # Test dataset
+├── train/                      # Training dataset
+├── valid/                      # Validation dataset
 │
-└── deployment/
+└── videos/
+    ├── 10 sec video.mp4
+    ├── 40sec video.mp4
+    ├── test_4.mp4
+    └── test_5.mp4              # Test input videos
+
 ```
 
 ---
