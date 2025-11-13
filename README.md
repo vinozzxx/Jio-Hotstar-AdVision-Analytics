@@ -167,6 +167,26 @@ brand-detection-project/
 
 ---
 
+## Dashboard  
+
+- **Overview**
+
+    ![Dashboard](https://github.com/vinozzxx/Jio-Hotstar-AdVision-Analytics/blob/d71c6011e5114d9a10add8902f4589e41202117a/1%20image.png)
+
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/04cc989988068a254971df778a81987541772f65/image_2.png)
+  
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/045c717ebe2074b4ad5728461d9bfa876da3a82e/image_1.png)
+
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/04cc989988068a254971df778a81987541772f65/image_2.png)
+  
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/045c717ebe2074b4ad5728461d9bfa876da3a82e/image_1.png)
+
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/04cc989988068a254971df778a81987541772f65/image_2.png)
+  
+    ![Dashboard](https://github.com/vinozzxx/Multiclass-Fish-Image-Classification/blob/045c717ebe2074b4ad5728461d9bfa876da3a82e/image_1.png)
+
+---
+
 ## ⚡ Quick Start
 
 ### 1️⃣ **Clone Repository**
